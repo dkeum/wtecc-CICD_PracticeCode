@@ -1,6 +1,5 @@
 name: CI workflow
 
-# events
 on:
   push:
     branches: [ "main" ]
